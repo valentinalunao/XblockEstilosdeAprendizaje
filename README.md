@@ -105,7 +105,7 @@ Para instalar este XBlock es necesario realizar los siguientes pasos:
 
     <div align="center">
 
-    ![Instalación correcta](./media/Fin.png)
+    ![Instalación correcta](./Fin.png)
 
     </div>
 
@@ -117,7 +117,7 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Vista Studio para seleccionar test](./media/VistaStudio1.png)
+    ![Vista Studio para seleccionar test](./VistaStudio1.png)
 
     </div>
 
@@ -125,7 +125,7 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Confirmación en la selección del test](./media/ConfirmaciónTest1.png)
+    ![Confirmación en la selección del test](./ConfirmaciónTest1.png)
 
     </div>
 
@@ -135,7 +135,7 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Test listo para ser respondido](./media/ResponderTest1.png)
+    ![Test listo para ser respondido](./ResponderTest1.png)
 
     </div>
 
@@ -143,8 +143,8 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Estilo de aprendizaje calculado](./media/ResultadoTest1.png)
-    ![Estilo de aprendizaje calculado](./media/ResultadoTest2.png)
+    ![Estilo de aprendizaje calculado](./ResultadoTest1.png)
+    ![Estilo de aprendizaje calculado](./ResultadoTest2.png)
 
     </div>
 
@@ -152,7 +152,7 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Resultados de los tests](./media/ResultadosTest1.png)
+    ![Resultados de los tests](./ResultadosTest1.png)
 
     </div>
 
@@ -160,7 +160,7 @@ Asegurese de tener el entorno virtual activo y el servidor del SDK ejecutándose
 
     <div align="center">
 
-    ![Gráfico de pastel](./media/Grafico1.png)
+    ![Gráfico de pastel](./Grafico1.png)
 
     </div>
 
